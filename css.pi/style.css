@@ -1,0 +1,15 @@
+.pai{
+  width: 80%;
+  height: 250px;
+  display: flex;
+  border: solid 3px #000;
+  background-color: lightpink;
+
+  align-items: center;
+}
+.bolinha{
+ width: 100px;
+ height: 100px;
+ border-radius:50px;
+ background-color: coral;
+}
